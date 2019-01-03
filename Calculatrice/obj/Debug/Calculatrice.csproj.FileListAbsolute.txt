@@ -1,0 +1,16 @@
+G:\Visual Studio\Essai\Essai\bin\Debug\Essai.exe.config
+G:\Visual Studio\Essai\Essai\bin\Debug\Essai.exe
+G:\Visual Studio\Essai\Essai\bin\Debug\Essai.pdb
+G:\Visual Studio\Essai\Essai\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+G:\Visual Studio\Essai\Essai\obj\Debug\Essai.exe
+G:\Visual Studio\Essai\Essai\obj\Debug\Essai.pdb
+G:\Visual Studio\Essai\Essai\obj\Debug\Calculatrice.Calcul.resources
+G:\Visual Studio\Essai\Essai\obj\Debug\Calculatrice.Properties.Resources.resources
+G:\Visual Studio\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+G:\Visual Studio\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+G:\Visual Studio\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+G:\Visual Studio\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calcul.resources
+G:\Visual Studio\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+G:\Visual Studio\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+G:\Visual Studio\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+G:\Visual Studio\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb

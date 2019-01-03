@@ -1,0 +1,8 @@
+G:\Visual Studio\Essai\Essai\bin\Debug\Essai.exe.config
+G:\Visual Studio\Essai\Essai\bin\Debug\Essai.exe
+G:\Visual Studio\Essai\Essai\bin\Debug\Essai.pdb
+G:\Visual Studio\Essai\Essai\obj\Debug\Essai.Calcul.resources
+G:\Visual Studio\Essai\Essai\obj\Debug\Essai.Properties.Resources.resources
+G:\Visual Studio\Essai\Essai\obj\Debug\Essai.csproj.GenerateResource.Cache
+G:\Visual Studio\Essai\Essai\obj\Debug\Essai.exe
+G:\Visual Studio\Essai\Essai\obj\Debug\Essai.pdb
